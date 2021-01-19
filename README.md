@@ -69,5 +69,5 @@ Dependent or Output variable (y) = Target variable = Response variable
 ## Reading data from remote link
 - url = "http://bit.ly/w-data"
 ### Observation:
-Mean Absolute Error: 4.183859899002975/
-RMSE value: 4.6474
+- Mean Absolute Error: 4.183859899002975
+- RMSE value: 4.6474
